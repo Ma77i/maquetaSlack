@@ -29,7 +29,7 @@ body {
 
 .titulo {
     color: rgb(65, 65, 65);
-    text-decoration: underline red;
+    text-decoration: underline rgb(233, 178, 0);
 
 }
 
@@ -94,3 +94,5 @@ body {
 }
 
 .material-icons.yellow { color: #FB8C00; }
+.material-icons.md-16 { font-size: 16px; }
+.material-icons.m-0 { margin: 0% 1%; }
