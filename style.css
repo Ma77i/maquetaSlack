@@ -8,6 +8,7 @@
     .contenedor {
         display: flex;
         flex-wrap: wrap;
+        justify-content: center;
     }
 }
 
@@ -29,8 +30,8 @@ body {
 
 .titulo {
     color: rgb(65, 65, 65);
+    font-weight: 700;
     text-decoration: underline rgb(233, 178, 0);
-
 }
 
 .contenedor {
@@ -75,7 +76,7 @@ body {
 
 .card__descripcion {
     font-size: 14px;
-    font-weight: 100;
+    font-weight: 500;
     margin: 3%;
 
 }
